@@ -1,0 +1,18 @@
+{
+  "name": "mergify",
+  "version": "0.0.1",
+  "description": "Merge a csv file into handlebars templates and emit documents!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "merge"
+  ],
+  "author": "David Manning",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "handlebars": "~1.1.2",
+    "fast-csv": "0.0.2"
+  }
+}
